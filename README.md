@@ -1,2 +1,2 @@
-# Web-Dev-Projects-Museum-of-Candy
+# Web Dev Starting Projects-Museum-of-Candy
 Responsive styled simple webpage
